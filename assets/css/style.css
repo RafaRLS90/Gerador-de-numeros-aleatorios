@@ -54,7 +54,7 @@ body {
 .input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 2px solid #7336ff;
+    border-bottom: 2px solid #038C4C;
     font-size: 18px;
     border-radius: 2px;
     padding: 5px;
@@ -63,11 +63,11 @@ body {
 
 .input-field input:focus {
     outline: none;
-    border-bottom: 3px solid #7336ff;
+    border-bottom: 3px solid #038C4C;
 }
 
 #generate {
-    background-color: #7336ff;
+    background-color: #038C4C;
     border: none;
     padding: 12px 20px;
     border-radius: 4px;
@@ -82,4 +82,5 @@ body {
 #result {
     font-size: 50px;
     font-weight: 600;
+    color: mediumspringgreen;
 }
